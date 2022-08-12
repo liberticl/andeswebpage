@@ -6,11 +6,9 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
-paginate = 3
 
 [permalinks]
   post = "/:day de /:month del /:year:/slug"
-  #post = "/:year/:month/:day/:slug"
 
 [params]
   avatar = "img/logo_andes.png"
@@ -19,8 +17,8 @@ paginate = 3
 
 
   # Custom assets can be linked with their paths relative to static/
-  custom_css = []
-  custom_js  = []
+  custom_css = ["/css/component.css"]
+  custom_js  = ["/js/grid.js"]
 
 [params.social]
   Email         = "equipo@andeschileong.cl"
@@ -31,18 +29,22 @@ paginate = 3
 
 ## Main Menu
 [[menu.main]]
-  name = "noticias"
+  name = "inicio"
+  weight = 50
+  identifier = "inicio"
+  url = "/"
+[[menu.main]]
+  name = "nosotros"
+  identifier = "nosotros"
   weight = 100
-  identifier = "noticias"
-  url = "/noticias/"
+  url = "/nosotros/"
 [[menu.main]]
   name = "actividades"
   identifier = "actividades"
   weight = 200
   url = "/actividades/"
-  [[menu.main]]
-  name = "nosotros"
-  identifier = "nosotros"
+[[menu.main]]
+  name = "noticias"
   weight = 300
-  url = "/nosotros/"
-
+  identifier = "noticias"
+  url = "/noticias/"
