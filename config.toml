@@ -6,6 +6,7 @@ disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 theme = "hugo-sustain"
+buildFuture = true
 
 [permalinks]
   post = "/:day de /:month del /:year:/slug"
@@ -48,3 +49,8 @@ theme = "hugo-sustain"
   weight = 300
   identifier = "noticias"
   url = "/noticias/"
+[[menu.main]]
+  name = "estudios"
+  weight = 400
+  identifier = "estudios"
+  url = "/estudios/"

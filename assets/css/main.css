@@ -268,6 +268,24 @@ h5 a:hover {
   transform: scale(1.1);
 }
 
+/* Efecto pulso para eventos por venir */
+@keyframes pulse {
+  from { transform: none; }
+  50% { transform: scale(1.05); }
+  to { transform: none; }
+}
+
+.card-new {
+  box-shadow: 0 20px 27px 0 rgba(0,0,0,.05);
+  flex: 1;
+  overflow: hidden;
+  transition: .3s;
+  margin: 0;
+  height: 100%;
+	animation: pulse 3.5s infinite;
+	transform-origin: center;
+}
+
 .card-header:first-child {
   border-radius: 1rem 1rem 0 0;
 }
