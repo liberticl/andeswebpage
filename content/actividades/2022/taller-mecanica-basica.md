@@ -1,7 +1,7 @@
 ---
 date: 2022-10-02
 description: "Nos juntamos con Decathlon y surgió un taller para aprender mecánica y evitar los imprevistos al movernos"
-featured_image: "/img/actividades/2022/taller-mecanica-basica.jpeg"
+featured_image: "/img/actividades/2022/taller-mecanica-basica.jpg"
 tags: ["Día Sin Auto","Expo","Convivencia Vial", "Educación Vial"]
 title: "Taller de Mecánica Básica"
 ---

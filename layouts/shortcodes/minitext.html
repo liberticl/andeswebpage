@@ -1,0 +1,13 @@
+{{ $dnsa := safeHTML "Desde el año 2019, debido a la cercanía del Día Mundial Sin Autos (celebrado el 22 de Septiembre) con las Fiestas Patrias en Chile, el gobierno decide implementar el <b>Día Nacional Sin Autos el último viernes del mes de Septiembre</b> buscando aumentar el impacto que busca significar esta fecha a nivel mundial, que es reducir la cantidad de emisiones y demostrar que tanto las ciudades a escala humana como el movilizarse en formas alternativas al vehículo particular son posibles." }}
+{{ $injuv := safeHTML "Esta publicación se enmarca en el contexto del fondo <b>Creamos 2022</b> de INJUV, adjudicado por <i>Francisco Vergara</i> con el proyecto <b>Cicletadas temáticas para Valparaíso y Viña del Mar</b>." }}
+
+<p style="font-size:15px; margin-bottom:0rem; line-height:22px"> 
+    {{ with .Get 0 }}
+        {{ if eq . "dnsa" }}
+            {{ $dnsa }}
+        {{ else if eq . "injuv"}}
+            {{ $injuv }}
+        {{ end }}
+    {{ end }}
+</p>
+<hr>

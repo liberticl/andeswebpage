@@ -1,7 +1,7 @@
 ---
 date: 2022-10-01
 description: "Nos juntamos con Decathlon y surgió un taller para aprender a moverse por las calles de nuestras ciudades"
-featured_image: "/img/actividades/2022/taller-convivencia-vial.jpeg"
+featured_image: "/img/actividades/2022/taller-convivencia-vial.jpg"
 tags: ["Día Sin Auto","Expo","Convivencia Vial", "Educación Vial"]
 title: "Taller de Convivencia Vial"
 ---

@@ -201,7 +201,7 @@ h5 a:hover {
 
 .blogpost {
   text-align: justify;
-  line-height: 30px;
+  line-height: 27px;
   font-size: 18px;
 }
 
@@ -282,7 +282,7 @@ h5 a:hover {
   transition: .3s;
   margin: 0;
   height: 100%;
-	animation: pulse 3.5s infinite;
+	animation: pulse 3s infinite;
 	transform-origin: center;
 }
 
