@@ -1,0 +1,5 @@
+{{ $File := .Get 0 }}
+{{ $FileName := replace (index (last 1 (split $File "/")) 0) "-" " " | title }}
+
+<button class="button btn"><a href="{{ $File }}" download='{{ $FileName }}'download><b>Descargar - {{ $FileName }}</b></button>
+

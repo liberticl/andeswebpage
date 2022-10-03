@@ -18,3 +18,5 @@ El taller revisará los siguientes temas:
 - Ley de convivencia vial.
 - Convivencia vial en la ciudad.
 - Tips para pedalear en la calle.
+
+{{< download "/docs/2022/taller-convivencia-vial.pdf" >}}

@@ -18,3 +18,5 @@ El taller revisará los siguientes temas:
 - Ajustes de frenos y cambios.
 - Solución de pinchazos.
 - Tips para diagnosticar.
+
+{{< download "/docs/2022/taller-mecanica-basica.pdf" >}}
