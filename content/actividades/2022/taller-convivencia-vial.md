@@ -6,8 +6,8 @@ tags: ["Día Sin Auto","Expo","Convivencia Vial", "Educación Vial"]
 title: "Taller de Convivencia Vial"
 ---
 
-<!-- {{< gallery gallery_dir="/img/actividades/2019/dnsa" >}}
-<br> -->
+{{< gallery gallery_dir="/img/actividades/2022/taller-vial" >}}
+<br>
 
 _El equipo de [**Andes Chile ONG**](/) ha unido energías con el [**Movimiento Furiosos Ciclistas Porteños**](https://www.instagram.com/mfc_valpo/) y [**Decathlon**](https://www.decathlon.cl/) Viña del Mar para realizar talleres en torno a la Semana de la Movilidad Sostenible, de donde surge la convocatoria a este taller abierto de Convivencia Vial_
 

@@ -123,7 +123,7 @@
         opacity: 1;
     }
 
-    img.hover-shadow {
+    video.hover-shadow {
         transition: 0.3s;
         border-radius: 1rem;
     }
@@ -137,11 +137,16 @@
 <section>
 <div class="row">
     {{ range $ix,$el := (readDir (print "/static" $dir)) }}
-        {{- $imageurl := printf "%s/%s" $dir .Name -}}
-        {{- $imagetitle := index (split .Name ".") 0 -}}
+        {{- $videourl := printf "%s/%s" $dir .Name -}}
+        {{- $videotitle := index (split .Name ".") 0 -}}
+        {{- $ext := index (split .Name ".") 1 -}}
         <div class="column">
-            <img src="{{ $imageurl }}" width="95%" onclick="openModal();currentSlide({{ $ix }})" class="hover-shadow cursor">
+            <video width="320" height="240" controls>
+                <source src="{{ $videourl }}" type="video/mp4">
+            </video>
+              
         </div>
+
     {{ end }}
 </div>
 
@@ -149,9 +154,9 @@
     <span class="close">&times;</span>
     <div class="modal-content">
         {{ range (readDir (print "/static" $dir)) }}
-            {{- $imageurl := printf "%s/%s" $dir .Name -}}
+            {{- $videourl := printf "%s/%s" $dir .Name -}}
             <div class="mySlides">
-                <img src="{{ $imageurl }}" style="width:100%; border-radius: 1.5rem;">
+                <img src="{{ $videourl }}" style="width:100%; border-radius: 1.5rem;">
             </div>
         {{ end }}
 
@@ -194,7 +199,7 @@
     var prev = document.getElementsByClassName("prev")
 
 
-    // Thumbnail image controls
+    // Thumbnail video controls
     function currentSlide(n) {
         showSlides(slideIndex = n);
     }
