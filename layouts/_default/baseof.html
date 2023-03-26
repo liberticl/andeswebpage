@@ -5,9 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="{{ .Site.Params.Author }}">
-    <meta property="og:title" content="{{ .Title }}">
-    <meta property="og:description" content="{{ .Description }}">
-    <meta property="og:image" intemprop="image primaryImageOfPage" content="{{ .Featured_image }}">
+    <meta property="og:title" content="{{ with .Title }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.title }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}">
+    {{if isset .Params "featured_image" }}
+      <meta property="og:image" intemprop="image primaryImageOfPage" content='{{ index .Params "featured_image" }}'>
+    {{ end }}
     <meta property="og:type" content="website">
     <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}img/favicon.ico">
     <title>{{ if .IsHome }}{{ else }}{{ if .Title }}{{ .Title }} | {{ end }}{{ end }}{{ .Site.Title }}</title>
