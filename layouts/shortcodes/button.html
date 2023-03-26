@@ -1,0 +1,7 @@
+{{ $webPage := .Get 0 }}
+{{ $text := .Get 1 }}
+{{ $pos := .Get 2 }}
+
+<div style="text-align: {{ $pos }}">
+    <button class="button btn" style="align-items: center"><a href="{{ $webPage }}"><b>{{ $text }}</b></button>
+</div>
