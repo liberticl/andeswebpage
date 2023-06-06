@@ -55,3 +55,9 @@ publishDir = "../andeschileongcl"
   weight = 400
   identifier = "estudios"
   url = "/estudios/"
+
+[[menu.main]]
+  name = "registra tu local"
+  weight = 500
+  identifier = "registro"
+  url = "/registro/"
