@@ -138,6 +138,10 @@ html, body {
   text-align: left;
 }
 
+.panel h3 {
+  text-align: center;
+}
+
 .panel h4 {
   text-align: left;
   line-height: 24px;
