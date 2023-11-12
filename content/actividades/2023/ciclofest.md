@@ -2,7 +2,7 @@
 date: 2023-09-23
 description: "Con el Movimiento Furiosos Ciclistas Porteños y las organizaciones amigas, abrimos la Semana de la Movilidad en el Gran Valparaíso en el Jardín Botánico!!"
 featured_image: "/img/actividades/2023/ciclofest.jpeg"
-tags: ["Día Sin Auto","Cicletadas Temáticas"]
+tags: ["Día Sin Auto","Cicletadas Temáticas","Semana de la Movilidad"]
 title: "¡CicloFest!"
 aliases:
     - "/ciclofest"
@@ -11,7 +11,6 @@ aliases:
 
 ![](/img/actividades/2023/semana-movilidad/partes/portada.jpeg)
 
-{{< gallery gallery_dir="/img/actividades/2023/semana-movilidad/ciclofest" >}}
 <br> 
 
 ### **Massive Picnic**
@@ -65,3 +64,7 @@ Se ha logrado gestionar que todas las personas que ingresen al Jardín Botánico
 
 **OJO!**: Andes Chile ONG no recibirá pagos en efectivo ni realizará devoluciones.
 
+___
+#### **Fotos del evento**
+
+{{< gallery gallery_dir="/img/actividades/2023/semana-movilidad/ciclofest/evento" >}}
