@@ -23,6 +23,7 @@ Este 2023 se ha logrado nuevamente la habilitación del [**Instituto Superior de
 - Zona de recarga para dispositivos electrónicos
 - Baños
 - Duchas (desde las 8 AM)
+**Habilitado hasta medio día**
 
 #### **Reglamento**
 
