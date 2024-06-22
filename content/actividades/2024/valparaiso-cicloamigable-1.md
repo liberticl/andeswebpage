@@ -1,5 +1,5 @@
 ---
-date: 2024-06-06
+date: 2024-05-08
 description: "¡Luego de un año de trabajo, municipio de Valparaíso reune a las organizaciones ciclistas para dar el vamos al proyecto presentado en 2022!"
 featured_image: "/img/actividades/2024/vlpoamigable.jpg"
 tags: ["Valparaíso Cicloamigable"]
