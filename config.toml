@@ -56,8 +56,14 @@ publishDir = "../andeschileongcl"
   identifier = "estudios"
   url = "/estudios/"
 
-[[menu.main]]
-  name = "registra tu local"
-  weight = 500
-  identifier = "registro"
-  url = "/registro/"
+# [[menu.main]]
+#   name = "registra tu local"
+#   weight = 500
+#   identifier = "registro"
+#   url = "/registro/"
+
+  [[menu.main]]
+  name = "Ciudades Pendientes"
+  weight = 600
+  identifier = "cp-web"
+  url = "https://datos.andeschileong.cl/"
