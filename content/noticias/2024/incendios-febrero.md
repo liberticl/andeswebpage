@@ -2,8 +2,6 @@
 date: 2024-02-28
 tags: ["Ayuda Humanitaria"]
 title: "Estamos presentes junto con otras organizaciones para salir adelante"
-aliases:
-    - "/voluntariado"
 ---
 
 Como ha ocurrido en ocasiones anteriores, este verano la región de Valparaíso se vió afectada por incendios de gran magnitud. En conjunto con diversas organizaciones, se levantó rápidamente la ayuda para llegar a quienes fueron afectados directamente por esta catástrofe.
