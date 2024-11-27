@@ -6,7 +6,7 @@ tags: ["Expo", "FMB"]
 title: "Foro Mundial de la Bicicleta 13"
 ---
 
-![FMB3](/img/actividades/2024/fmb13_long.jpeg)
+![FMB13](/img/actividades/2024/fmb13_long.jpeg)
 
 {{< minitext "fmb" >}}
 
