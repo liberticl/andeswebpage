@@ -2,7 +2,9 @@
 title: "Nosotros"
 date: "2017-12-27"
 ---
-<!--{{< figure src="/images/logo_andes.png" title="Nuestra Organización" >}}-->
+<div style="text-align:center;">
+    <img src="/img/logo_andes.png" alt="Nuestra Organización" width="50%" >
+</div>
 
 **Andes Chile ONG** es una organización sin fines de lucro orientada a difundir y crear conciencia respecto del uso de la bicicleta como objeto de ocio, liberación, estimulo físico, medio deportivo y de transporte sustentable. Este ultimo punto es una de las líneas de trabajo y preocupación constante de la organización, ya que se busca que la bicicleta sea visibilizada como medio de transporte sustentable ante las distintas autoridades a nivel regional y nacional.
 
