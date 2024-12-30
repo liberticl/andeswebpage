@@ -21,6 +21,10 @@ publishDir = "../andeschileongcl"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.link]
+        enableDefault = true
+
 
 
 
@@ -68,8 +72,8 @@ publishDir = "../andeschileongcl"
 #   identifier = "registro"
 #   url = "/registro/"
 
-  [[menu.main]]
-  name = "Ciudades Pendientes"
-  weight = 600
-  identifier = "cp-web"
-  url = "https://datos.andeschileong.cl/"
+# [[menu.main]]
+# name = "Ciudades Pendientes"
+# weight = 600
+# identifier = "cp-web"
+# url = "https://datos.andeschileong.cl/"
