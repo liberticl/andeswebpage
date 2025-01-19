@@ -81,7 +81,7 @@ html, body {
 }
 
 .button {
-  background-color: #4CAF50; /* Green */
+  background-color: #2241a8; /* Green */
   border: none;
   color: white;
   padding: 16px 32px;
@@ -97,11 +97,11 @@ html, body {
 .btn {
   background-color: white; 
   color: black; 
-  border: 2px solid #2294a8;
+  border: 2px solid #2241a8;
 }
 
 .btn:hover {
-  background-color: #2294a8;
+  background-color: #2241a8;
   color: white;
 }
 
