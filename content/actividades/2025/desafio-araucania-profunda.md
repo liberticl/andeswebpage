@@ -15,7 +15,7 @@ aliases:
 
 El Desafío Araucanía Profunda es una colaboración entre [**Cumbre Cayulafquen Geoturismo**](https://www.instagram.com/cumbrecayulafquen/) y **Andes Chile ONG** en la búsqueda común de la visibilización de los distintos espacios naturales de nuestro país, que requieren ser admirados, pero también requieren de respeto, por lo cual la mejor manera de conocer y recorrer estos lugares es usando la bicicleta.
 
-Esta actividad se realizará los días **21, 22 y 23 de Febrero de 2025 y tiene un costo de $85.000.-**.  Se considera la visita a los siguientes atractivos en los 160 km de travesía (dificultad intermedia):
+Esta actividad se realizará los días **21, 22 y 23 de Febrero de 2025 y tiene un costo de $85.000.-**.  Se considera la visita a los siguientes atractivos en los 130 km de travesía (dificultad intermedia):
 
 - Ciclovía comuna Lonquimay.
 - Comunidad Quinquén (Mapuche Pewenche).
@@ -84,7 +84,7 @@ El cronograma de los 3 días es el siguiente:
 
 #### **Sobre el pago**
 
-Para participar, debes registrarte en [**este formulario único**](https://forms.gle/zHWJZ9ESH7rRd42v8) y transferir el valor de registro ($85.000.-) a la siguiente cuenta:
+Para participar, debes contactarte con [**+56991981271**](https://wa.me/56991981271) o [**+56982127705**](https://wa.me/56982127705) y registrarte en [**este formulario único**](https://forms.gle/zHWJZ9ESH7rRd42v8) y transferir el valor de registro ($85.000.-) a la siguiente cuenta:
 
 | Datos |
 | -- | -- |
@@ -102,4 +102,4 @@ Para participar, debes registrarte en [**este formulario único**](https://forms
     - Hasta el 13 de Febrero (23:59 horas) se reembolsará el 70% del valor del cupo ($59.500.-).
     - Desde el 14 de Febrero (00:00 horas) se reembolsará el 50% del valor del cupo ($42.500.-).
 
-![](/img/actividades/2025/araucania-profunda/araucaniaprofunda.jpeg)
+![](/img/actividades/2025/araucania-profunda/araucaniaprofunda.png)
