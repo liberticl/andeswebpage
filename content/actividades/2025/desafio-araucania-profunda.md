@@ -13,9 +13,11 @@ aliases:
     te invitamos a este desafío lleno de experiencias únicas e inolvidables!
 </b></h4>
 
-El Desafío Araucanía Profunda es una colaboración entre [**Cumbre Cayulafquen Geoturismo**](https://www.instagram.com/cumbrecayulafquen/) y **Andes Chile ONG** en la búsqueda común de la visibilización de los distintos espacios naturales de nuestro país, que requieren ser admirados, pero también requieren de respeto, por lo cual la mejor manera de conocer y recorrer estos lugares es usando la bicicleta.
+El Desafío Araucanía Profunda ([@desafioaraucaniaprofunda](https://www.instagram.com/desafioaraucaniaprofunda/)) es una colaboración entre **Cumbre Cayulafquen Geoturismo** ([@cumbrecayulafquen](https://www.instagram.com/cumbrecayulafquen/)) y **Andes Chile ONG** en la búsqueda común de la visibilización de los distintos espacios naturales de nuestro país, que requieren ser admirados, pero también requieren de respeto, por lo cual la mejor manera de conocer y recorrer estos lugares es usando la bicicleta.
 
-Esta actividad se realizará los días **21, 22 y 23 de Febrero de 2025 y tiene un costo de $85.000.-**.  Se considera la visita a los siguientes atractivos en los 130 km de travesía (dificultad intermedia):
+Esta actividad se realizará los días **21, 22 y 23 de Febrero de 2025** y tiene un costo de ~~$85.000.-~~. Sin embargo, **por el aniversario de Lonquimay, se ofrecerán cupos con descuento a $80.000.-** hasta el domingo 2 de Febrero.
+
+Se considera la visita a los siguientes atractivos en los más de 130 km de travesía (dificultad intermedia):
 
 - Ciclovía comuna Lonquimay.
 - Comunidad Quinquén (Mapuche Pewenche).
@@ -59,6 +61,9 @@ El costo incluye:
 - Medalla “Desafío cumplido”
 - Registro fotográfico del Desafío Araucanía Profunda, 2025
 
+{{< download "/docs/2025/detalle-del-desafio.pdf" >}}
+
+
 El cronograma de los 3 días es el siguiente:
 
 **21 de Febrero**
@@ -84,7 +89,7 @@ El cronograma de los 3 días es el siguiente:
 
 #### **Sobre el pago**
 
-Para participar, debes contactarte con [**+56991981271**](https://wa.me/56991981271) o [**+56982127705**](https://wa.me/56982127705) y registrarte en [**este formulario único**](https://forms.gle/zHWJZ9ESH7rRd42v8) y transferir el valor de registro ($85.000.-) a la siguiente cuenta:
+Para participar, debes contactarte con [**+56991981271**](https://wa.me/56991981271) o [**+56982127705**](https://wa.me/56982127705) y registrarte en [**este formulario único**](https://forms.gle/zHWJZ9ESH7rRd42v8) y transferir el valor de registro (~~$85.000.-~~ $80.000.- hasta el 2 de Febrero) a la siguiente cuenta:
 
 | Datos |
 | -- | -- |
@@ -99,7 +104,15 @@ Para participar, debes contactarte con [**+56991981271**](https://wa.me/56991981
 
 - Se debe enviar correo con el comprobante de transferencia para considerarse inscrito/a.
 - Para efectos devolución en caso de no participar en el evento:
-    - Hasta el 13 de Febrero (23:59 horas) se reembolsará el 70% del valor del cupo ($59.500.-).
-    - Desde el 14 de Febrero (00:00 horas) se reembolsará el 50% del valor del cupo ($42.500.-).
+    - Hasta el 13 de Febrero (23:59 horas) se reembolsará el 60% del valor del cupo.¹
+    - Desde el 14 de Febrero (00:00 horas) se reembolsará el 50% del valor del cupo.²
+
+<p style="font-size:15px; margin-bottom:0rem; line-height:22px"> 
+    1. Si pagaste el precio rebajado, tu reembolso será de $48.000.- y de lo contrario, será de $51.000.-<br>
+    2. Si pagaste el precio rebajado, tu reembolso será de $40.000.- y de lo contrario, será de $42.500.-
+</p>
+<br><br>
+
+{{< pdf name="2025/detalle-del-desafio.pdf" >}}
 
 ![](/img/actividades/2025/araucania-profunda/araucaniaprofunda.png)
