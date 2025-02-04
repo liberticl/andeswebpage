@@ -75,13 +75,13 @@ El cronograma de los 3 días es el siguiente:
 
 - Partida desde la Plaza de Armas de Lonquimay.
 - Tramo 1: ciclovía de Lonquimay (~14 km).
-- Tramo 2: camino La Fusta hasta Laguna Icalma por ripio (~60 km).
+- Tramo 2: camino La Fusta hasta Laguna Icalma por ripio (~52 km).
 
 **23 de Febrero**
 
 - Tramo 1: camino Laguna Icalma hasta Puente Tucapel por Rucañanco en ripio (~37 km).
 - Tramo 2: desde Puente Tucapel hasta la entrada del Cruce Pichipehuenco por la Ruta CH-181 en asfalto (~0.5 km).
-- Tramo 3: desde Cruce Pichipehuenco hasta Camping Lolén en ripio (~28 km).
+- Tramo 3: desde Cruce Pichipehuenco hasta Camping Lolén en ripio (~19 km).
 - Tramo 4: desde Camping Lolén hasta Lonquimay urbano por ruta CH-181 en asfalto (~15 km).
 - Llegada a la meta en Plaza de Armas de Lonquimay. Ceremonia de finalización y entrega de medallas.
 
