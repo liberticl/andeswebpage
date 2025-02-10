@@ -15,7 +15,7 @@ aliases:
 
 El Desafío Araucanía Profunda ([@desafioaraucaniaprofunda](https://www.instagram.com/desafioaraucaniaprofunda/)) es una colaboración entre **Cumbre Cayulafquen Geoturismo** ([@cumbrecayulafquen](https://www.instagram.com/cumbrecayulafquen/)) y **Andes Chile ONG** en la búsqueda común de la visibilización de los distintos espacios naturales de nuestro país, que requieren ser admirados, pero también requieren de respeto, por lo cual la mejor manera de conocer y recorrer estos lugares es usando la bicicleta.
 
-Esta actividad se realizará los días **21, 22 y 23 de Febrero de 2025** y tiene un costo de ~~$85.000.-~~. Sin embargo, **por el aniversario de Lonquimay, se ofrecerán cupos con descuento a $80.000.-** hasta el domingo 2 de Febrero.
+Esta actividad se realizará los días **21, 22 y 23 de Febrero de 2025** y tiene un costo de $85.000.-. <!-- Sin embargo, **por el aniversario de Lonquimay, se ofrecerán cupos con descuento a $80.000.-** hasta el domingo 2 de Febrero. -->
 
 Se considera la visita a los siguientes atractivos en los más de 130 km de travesía (dificultad intermedia):
 
@@ -89,7 +89,7 @@ El cronograma de los 3 días es el siguiente:
 
 #### **Sobre el pago**
 
-Para participar, debes contactarte con [**+56991981271**](https://wa.me/56991981271) o [**+56982127705**](https://wa.me/56982127705) y registrarte en [**este formulario único**](https://forms.gle/zHWJZ9ESH7rRd42v8) y transferir el valor de registro (~~$85.000.-~~ $80.000.- hasta el 2 de Febrero) a la siguiente cuenta:
+Para participar, debes contactarte con [**+56991981271**](https://wa.me/56991981271) o [**+56982127705**](https://wa.me/56982127705) y registrarte en [**este formulario único**](https://forms.gle/zHWJZ9ESH7rRd42v8) y transferir el valor de registro ($85.000.- ~~$80.000.- hasta el 2 de Febrero~~) a la siguiente cuenta:
 
 | Datos |
 | -- | -- |
