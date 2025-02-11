@@ -13,7 +13,7 @@ aliases:
     te invitamos a este desafío lleno de experiencias únicas e inolvidables!
 </b></h4>
 
-El Desafío Araucanía Profunda ([@desafioaraucaniaprofunda](https://www.instagram.com/desafioaraucaniaprofunda/)) es una colaboración entre **Cumbre Cayulafquen Geoturismo** ([@cumbrecayulafquen](https://www.instagram.com/cumbrecayulafquen/)) y **Andes Chile ONG** en la búsqueda común de la visibilización de los distintos espacios naturales de nuestro país, que requieren ser admirados, pero también requieren de respeto, por lo cual la mejor manera de conocer y recorrer estos lugares es usando la bicicleta.
+El Desafío Araucanía Profunda ([@desafioaraucaniaprofunda](https://www.instagram.com/desafioaraucaniaprofunda/)) es una colaboración entre **Cumbre Cayulafquén Geoturismo** ([@cumbrecayulafquen](https://www.instagram.com/cumbrecayulafquen/)) y **Andes Chile ONG** en la búsqueda común de la visibilización de los distintos espacios naturales de nuestro país, que requieren ser admirados, pero también requieren de respeto, por lo cual la mejor manera de conocer y recorrer estos lugares es usando la bicicleta.
 
 Esta actividad se realizará los días **21, 22 y 23 de Febrero de 2025** y tiene un costo de $85.000.-. <!-- Sin embargo, **por el aniversario de Lonquimay, se ofrecerán cupos con descuento a $80.000.-** hasta el domingo 2 de Febrero. -->
 
@@ -22,19 +22,20 @@ Se considera la visita a los siguientes atractivos en los más de 130 km de trav
 - Ciclovía comuna Lonquimay.
 - Comunidad Quinquén (Mapuche Pewenche).
 - Bosques de Araucarias.
-- Sector Laguna Galletué (donde nace el Río Bio Bio).
+- Sector Laguna Galletué (nacimiento del Río Biobío).
 - Sector Laguna Icalma.
+- Comunidad Huallenmapu.
 - Sector Rucañanco.
+- Sector Tucapel.
 - Sector Pichipehuenco.
 - Sector Mitrauquén.
 - Sector Lolén.
 - Río Biobío.
-- Vistas a Meseta Batea Mahuida – Volcán Lonquimay – Volcán Sierra Nevada –
-Volcán LLaima.
+- Vistas a Meseta Batea Mahuida – Volcán Lonquimay – Volcán Sierra Nevada – Volcán LLaima – Cerro Redondo.
 
 #### **Requisitos**
 
-Cabe destacar que la edad mínima para participar es de 18 años. Además, se requiere que los participantes cuenten con una condición física adecuada para pedalear durante 2 días y un nivel de salud compatible con la actividad. 
+Cabe destacar que la edad mínima para participar es de 18 años. Además, se requiere que los participantes cuenten con una condición física adecuada para pedalear durante 8 a 9 horas por 2 días y un nivel de salud compatible con la actividad. 
 
 Por su parte, la bicicleta debe contar con una mantención reciente y mayor a 1 semana a la fecha de la actividad y el ciclista debe contar con un kit de reparación básico (desmontadores, parches, pegamento, cámara extra y herramientas para ajustar componentes y desmontar ruedas). Finalmente, la persona debe contar con ropa adecuada para el pedaleo.
 
@@ -54,12 +55,25 @@ El costo incluye:
 - Alojamiento los 3 días.
 - Alimentación los 3 días.
 - Número de participación.
-- Asistencia en ruta.
+- Asistencia en ruta (salud y mecánica).
 - Puntos de hidratación y alimentación.
 - Camioneta para traslado de equipamiento.
-- Track del desafío
-- Medalla “Desafío cumplido”
-- Registro fotográfico del Desafío Araucanía Profunda, 2025
+- Track del desafío.
+- Medalla de Picoyo (madera de araucaria) “Desafío cumplido”.
+- Registro fotográfico del Desafío Araucanía Profunda 2025.
+- Lavado de bicicleta al final el desafío por "Como nuevo Lonquicar"
+- Apoyo de bomberos y carabineros durante el desafío.
+
+A continuación, se indican las cosas que debe cubrir cada participante:
+
+- Casco de bicicleta.
+- Indumentaria de ciclismo.
+- Saco de dormir.
+- Ropa de cama.
+- Ida y regreso hacia Lonquimay.
+- Seguro de accidentes.
+- Protección solar.
+- Toalla para pies (se utilizará en cruce de arroyo).
 
 {{< download "/docs/2025/detalle-del-desafio.pdf" >}}
 
