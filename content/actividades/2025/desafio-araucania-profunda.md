@@ -22,7 +22,7 @@ Se considera la visita a los siguientes atractivos en los más de 130 km de trav
 - Ciclovía comuna Lonquimay.
 - Comunidad Quinquén (Mapuche Pewenche).
 - Bosques de Araucarias.
-- Sector Laguna Galletué.
+- Sector Laguna Galletué (donde nace el Río Bio Bio).
 - Sector Laguna Icalma.
 - Sector Rucañanco.
 - Sector Pichipehuenco.
