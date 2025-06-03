@@ -1,7 +1,7 @@
 ---
 date: 2025-06-03
-description: "¡Somos muchos y estamos juntos: la celebración no cabe en un único día!"
-featured_image: "/img/foro-chileno/previa/asamblea-ciclos-valpo.jpg"
+description: "¡Somos muchos y estamos juntos: un día no es suficiente para celebrar y una comuna no nos basta para activar!"
+featured_image: "/img/actividades/2025/diabici.png"
 tags: ["FNB2025", "Cicletadas Temáticas", "Día Mundial de la Bicicleta"]
 title: "Semana de la Bicicleta"
 ---
