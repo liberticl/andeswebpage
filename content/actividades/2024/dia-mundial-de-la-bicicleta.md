@@ -2,7 +2,7 @@
 date: 2024-06-03
 description: "Celebramos el Día Mundial de la Bicicleta viendo un documental en la PUCV"
 featured_image: "/img/actividades/2024/dia-mundial-bici.jpeg"
-tags: ["Expo", "ConasetValpo", "PUCV"]
+tags: ["Expo", "ConasetValpo", "PUCV", "Día Mundial de la Bicicleta"]
 title: "Día Mundial de la Bicicleta 2024"
 ---
 

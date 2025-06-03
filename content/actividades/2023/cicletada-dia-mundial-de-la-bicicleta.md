@@ -2,7 +2,7 @@
 date: 2023-06-03
 description: "Con el Movimiento Furiosos Ciclistas Porteños, se organiza una cicletada conjunta por el borde costero para conmemorar este importante día en nuestra comunidad"
 featured_image: "/img/actividades/2023/cicletada_diamundialbici.jpeg"
-tags: ["Cicletadas Temáticas"]
+tags: ["Cicletadas Temáticas", "Día Mundial de la Bicicleta"]
 title: "Cicletada Día Mundial de la Bicicleta"
 ---
 

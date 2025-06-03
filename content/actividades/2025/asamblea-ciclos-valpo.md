@@ -2,10 +2,8 @@
 date: 2025-01-05
 description: "¡Comenzamos a prepararnos para recibir el Foro Nacional de la Bicicleta en la comuna de Valparaíso!"
 featured_image: "/img/foro-chileno/previa/asamblea-ciclos-valpo.jpg"
-tags: ["Foro Chileno de la Bicicleta 2025"]
+tags: ["FNB2025"]
 title: "Asamblea de Ciclos - Región de Valparaíso"
-aliases:
-    - "/foro-chileno"
 ---
 
 Los recientes eventos en Chile han desmotivado nuestras organizaciones de movilidad y la virtualidad de nuestras reuniones desenfoca nuestras miradas en múltiples pantallas. El contexto de nuestras vidas ha cambiado y pareciera que las organizaciones activas somos pocas, lo cual genera que nuestros intereses comunes a nivel nacional parezcan disolverse con el paso del tiempo. Por su lado, la pandemia y el proceso constituyente abrieron las puertas a nuevas organizaciones y liderazgos que sienten estar sólos en sus ciudades, luchando contra una maquinaria política que parece imparable.
