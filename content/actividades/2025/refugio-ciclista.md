@@ -7,6 +7,8 @@ title: "Refugio Ciclista 2025"
 aliases:
     - "/refugio"
 ---
+{{< youtube id="V-IsBLBW5fQ" autoplay="true" >}}
+<br>
 
 En 2025, **Andes Chile ONG** anuncia la realización de la 6ta versión del importante y necesario **Refugio Ciclista**. Manteniendo el espíritu de apoyo, seguridad y compañerismo que ha destacado este espacio en los últimos años.
 
