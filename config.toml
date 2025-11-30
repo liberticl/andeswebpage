@@ -23,7 +23,7 @@ publishDir = "../andeschileongcl"
       unsafe = true
     [markup.goldmark.renderHooks]
       [markup.goldmark.renderHooks.link]
-        useEmbedded = "fallback"
+        enableDefault = true
 
 
 
