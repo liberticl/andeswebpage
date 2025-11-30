@@ -62,9 +62,7 @@
 
   .columna {
     flex: 1;
-    /* Permite que la columna crezca y ocupe espacio equitativamente */
     min-width: 100px;
-    /* Asegura que no se hagan muy estrechas antes de envolver */
   }
 
   ul,
@@ -74,6 +72,31 @@
 
   li {
     text-align: left;
+  }
+
+  @media (max-width: 600px) {
+    .contenedor-columnas {
+      /* En móviles no necesitamos justificar el espacio, ya que estarán apiladas */
+      justify-content: center;
+    }
+
+    .columna {
+      /* * ¡La clave del responsive! 
+       * flex: 0 0 100%; significa:
+       * 0: No crecer
+       * 0: No encoger
+       * 100%: Tomar el 100% del ancho del contenedor
+       */
+      flex: 0 0 100%;
+      min-width: auto;
+      /* Desactivamos el min-width para móviles */
+    }
+
+    ul,
+    ol {
+      padding-left: 30px;
+      /* Opcional: Reduce un poco el padding en móviles para ahorrar espacio */
+    }
   }
 </style>
 
