@@ -3,16 +3,14 @@
 
 <section id="about">
   <div class="container">
-    <div class="avatar mb-5">
+    <div class="avatar">
       <img src="{{ .Site.Params.avatar }}" alt="Responsive image" width="40%">
     </div>
-    {{ partial "form.html" . }}
-    <br><br>
-    {{ partial "actividad.html" . }}
-    {{/* {{ partial "foro-nacional.html" . }}  /*}}
-    {{/*  {{ partial "refugiociclista.html" }}  */}}
+    {{ partial "actividad" . }}
+    {{/* {{ partial "foro-nacional" . }} /*}}
+    {{/* {{ partial "refugiociclista" }} */}}
     {{ .Content }}
-    {{ partial "social.html" . }}
+    {{ partial "social" . }}
   </div>
 </section>
 {{ end }}

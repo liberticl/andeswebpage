@@ -4,8 +4,6 @@ description: "¡Travesía en bicicleta por más de 150 km, recorriendo 8 sectore
 featured_image: "/img/actividades/2025/araucania-profunda/desafiologo.png"
 tags: ["Cicloturismo"]
 title: "Desafío Araucanía Profunda 2025"
-aliases:
-    - "/araucania-profunda"
 ---
 
 <h4 style="text-align: center; margin-bottom: 20px;"><b>
