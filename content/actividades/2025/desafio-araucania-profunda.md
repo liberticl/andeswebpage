@@ -3,7 +3,7 @@ date: 2025-02-21
 description: "¡Travesía en bicicleta por más de 150 km, recorriendo 8 sectores de la comuna de Lonquimay en La Araucanía!"
 featured_image: "/img/actividades/2025/araucania-profunda/desafiologo.png"
 tags: ["Cicloturismo"]
-title: "Desafío Araucanía Profunda"
+title: "Desafío Araucanía Profunda 2025"
 aliases:
     - "/araucania-profunda"
 ---
@@ -75,7 +75,7 @@ A continuación, se indican las cosas que debe cubrir cada participante:
 - Protección solar.
 - Toalla para pies (se utilizará en cruce de arroyo).
 
-{{< download "/docs/2025/detalle-del-desafio.pdf" >}}
+<!-- {{< download "/docs/2025/detalle-del-desafio.pdf" >}} -->
 
 
 El cronograma de los 3 días es el siguiente:
@@ -99,34 +99,5 @@ El cronograma de los 3 días es el siguiente:
 - Tramo 4: desde Camping Lolén hasta Lonquimay urbano por ruta CH-181 en asfalto (~15 km).
 - Llegada a la meta en Plaza de Armas de Lonquimay. Ceremonia de finalización y entrega de medallas.
 
----
 
-#### **Sobre el pago**
-
-Para participar, debes contactarte con [**+56991981271**](https://wa.me/56991981271) o [**+56982127705**](https://wa.me/56982127705) y registrarte en [**este formulario único**](https://forms.gle/zHWJZ9ESH7rRd42v8) y transferir el valor de registro ($85.000.- ~~$80.000.- hasta el 2 de Febrero~~) a la siguiente cuenta:
-
-| Datos |
-| -- | -- |
-| Nombre | Daniela Aguayo Muñoz |
-| RUT | 18.564.392-1 |
-| Banco Destino | Banco Estado |
-| Tipo Cuenta | Cuenta RUT |
-| Nro. Cuenta | 18564392 |
-| Correo | daniela@andeschileong.cl |
-
-**Importante**
-
-- Se debe enviar correo con el comprobante de transferencia para considerarse inscrito/a.
-- Para efectos devolución en caso de no participar en el evento:
-    - Hasta el 13 de Febrero (23:59 horas) se reembolsará el 60% del valor del cupo.¹
-    - Desde el 14 de Febrero (00:00 horas) se reembolsará el 50% del valor del cupo.²
-
-<p style="font-size:15px; margin-bottom:0rem; line-height:22px"> 
-    1. Si pagaste el precio rebajado, tu reembolso será de $48.000.- y de lo contrario, será de $51.000.-<br>
-    2. Si pagaste el precio rebajado, tu reembolso será de $40.000.- y de lo contrario, será de $42.500.-
-</p>
-<br><br>
-
-{{< pdf name="2025/detalle-del-desafio.pdf" >}}
-
-![](/img/actividades/2025/araucania-profunda/araucaniaprofunda.png)
+{{< gallery gallery_dir="/img/actividades/2025/araucania-profunda/evento" >}}
